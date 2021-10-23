@@ -15,3 +15,6 @@ Image identifying myself
 ![WhatsApp Image 2021-06-11 at 9 28 27 PM](https://user-images.githubusercontent.com/92970332/138549312-b29b7ff6-1ffd-4bc7-a36f-17a681e3f6a7.jpeg)
 
 Thus, it is successfully able to identify specific individuals. 
+
+Applications : 
+Building and storing this data and create an attendance system
