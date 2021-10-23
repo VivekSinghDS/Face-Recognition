@@ -5,6 +5,7 @@ Steps to Implement:
 1. Clone this repo 
 2. Install the packages 
 3. It will compare the faces, and deliver results using opencv-python 
+4. To leverage real-time face detection, execute "face_real_time.py"
 
 Results :
 Image identifying an actor named, "Dev Patel"
